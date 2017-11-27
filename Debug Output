@@ -1,0 +1,1905 @@
+GC: 3msec 26976 bytes used, 37404 bytes available
+
+Type 0F (STRING              ):    276 bytes
+
+Type 11 (CLASS               ):   1932 bytes
+
+Type 12 (VALUETYPE           ):    204 bytes
+
+Type 13 (SZARRAY             ):    660 bytes
+
+Type 15 (FREEBLOCK           ):  37404 bytes
+
+Type 17 (ASSEMBLY            ):  11760 bytes
+
+Type 18 (WEAKCLASS           ):     48 bytes
+
+Type 19 (REFLECTION          ):     24 bytes
+
+Type 1B (DELEGATE_HEAD       ):    540 bytes
+
+Type 1C (DELEGATELIST_HEAD   ):    108 bytes
+
+Type 1D (OBJECT_TO_EVENT     ):     96 bytes
+
+Type 1E (BINARY_BLOB_HEAD    ):   7764 bytes
+
+Type 1F (THREAD              ):   1152 bytes
+
+Type 20 (SUBTHREAD           ):    144 bytes
+
+Type 21 (STACK_FRAME         ):    924 bytes
+
+Type 27 (FINALIZER_HEAD      ):    192 bytes
+
+Type 31 (IO_PORT             ):     72 bytes
+
+Type 34 (APPDOMAIN_HEAD      ):     72 bytes
+
+Type 36 (APPDOMAIN_ASSEMBLY  ):   1008 bytes
+
+Rebooting...
+
+Create TS.
+
+ Loading start at 4ebac, end 56d84
+
+Attaching file.
+
+Assembly: mscorlib (4.1.2821.0) (3880 RAM - 33236 ROM - 19134 METADATA)
+
+
+   AssemblyRef    =        0 bytes (       0 elements)
+
+   TypeRef        =        0 bytes (       0 elements)
+
+   FieldRef       =        0 bytes (       0 elements)
+
+   MethodRef      =        0 bytes (       0 elements)
+
+   TypeDef        =     1112 bytes (     139 elements)
+
+   FieldDef       =      272 bytes (     135 elements)
+
+   MethodDef      =     1572 bytes (     786 elements)
+
+
+
+   Attributes      =        0 bytes (       0 elements)
+
+   TypeSpec        =       16 bytes (       4 elements)
+
+   Resources       =      232 bytes (      29 elements)
+
+   Resources Files =       16 bytes (       2 elements)
+
+   Resources Data  =      437 bytes
+
+   Strings         =     1551 bytes
+
+   Signatures      =     2126 bytes
+
+   ByteCode        =    11702 bytes
+
+
+
+
+Loading Deployment Assemblies.
+
+Attaching deployed file.
+
+Assembly: Microsoft.SPOT.Graphics (4.1.2821.0) (388 RAM - 2268 ROM - 1357 METADATA)
+
+
+   AssemblyRef    =        8 bytes (       2 elements)
+
+   TypeRef        =       24 bytes (       6 elements)
+
+   FieldRef       =        0 bytes (       0 elements)
+
+   MethodRef      =       20 bytes (       5 elements)
+
+   TypeDef        =       40 bytes (       5 elements)
+
+   FieldDef       =       16 bytes (       8 elements)
+
+   MethodDef      =       96 bytes (      48 elements)
+
+
+
+   Attributes      =        0 bytes (       0 elements)
+
+   TypeSpec        =        0 bytes (       0 elements)
+
+   Resources       =        0 bytes (       0 elements)
+
+   Resources Files =        0 bytes (       0 elements)
+
+   Resources Data  =        0 bytes
+
+   Strings         =      537 bytes
+
+   Signatures      =      293 bytes
+
+   ByteCode        =      242 bytes
+
+
+
+
+Attaching deployed file.
+
+Assembly: FezAdbBridge (1.0.0.0) (824 RAM - 7448 ROM - 2258 METADATA)
+
+
+   AssemblyRef    =       28 bytes (       7 elements)
+
+   TypeRef        =      168 bytes (      42 elements)
+
+   FieldRef       =       80 bytes (      20 elements)
+
+   MethodRef      =      196 bytes (      49 elements)
+
+   TypeDef        =       64 bytes (       8 elements)
+
+   FieldDef       =       72 bytes (      35 elements)
+
+   MethodDef      =       52 bytes (      25 elements)
+
+
+
+   Attributes      =        0 bytes (       0 elements)
+
+   TypeSpec        =        0 bytes (       0 elements)
+
+   Resources       =       16 bytes (       2 elements)
+
+   Resources Files =        8 bytes (       1 elements)
+
+   Resources Data  =       13 bytes
+
+   Strings         =     1937 bytes
+
+   Signatures      =      414 bytes
+
+   ByteCode        =     3065 bytes
+
+
+
+
+Attaching deployed file.
+
+Assembly: GHIElectronics.NETMF.USBHost (4.1.7.0) (1668 RAM - 15824 ROM - 7067 METADATA)
+
+
+   AssemblyRef    =       16 bytes (       4 elements)
+
+   TypeRef        =       92 bytes (      23 elements)
+
+   FieldRef       =       12 bytes (       3 elements)
+
+   MethodRef      =       88 bytes (      22 elements)
+
+   TypeDef        =      376 bytes (      47 elements)
+
+   FieldDef       =      280 bytes (     139 elements)
+
+   MethodDef      =      444 bytes (     221 elements)
+
+
+
+   Attributes      =        0 bytes (       0 elements)
+
+   TypeSpec        =        4 bytes (       1 elements)
+
+   Resources       =        0 bytes (       0 elements)
+
+   Resources Files =        0 bytes (       0 elements)
+
+   Resources Data  =        0 bytes
+
+   Strings         =     3948 bytes
+
+   Signatures      =      855 bytes
+
+   ByteCode        =     4683 bytes
+
+
+
+
+Attaching deployed file.
+
+Assembly: GHIElectronics.NETMF.System (4.1.7.0) (488 RAM - 2496 ROM - 1465 METADATA)
+
+
+   AssemblyRef    =       12 bytes (       3 elements)
+
+   TypeRef        =       48 bytes (      12 elements)
+
+   FieldRef       =        0 bytes (       0 elements)
+
+   MethodRef      =       56 bytes (      14 elements)
+
+   TypeDef        =       80 bytes (      10 elements)
+
+   FieldDef       =       28 bytes (      14 elements)
+
+   MethodDef      =       84 bytes (      41 elements)
+
+
+
+   Attributes      =        0 bytes (       0 elements)
+
+   TypeSpec        =        0 bytes (       0 elements)
+
+   Resources       =        0 bytes (       0 elements)
+
+   Resources Files =        0 bytes (       0 elements)
+
+   Resources Data  =        0 bytes
+
+   Strings         =      549 bytes
+
+   Signatures      =      213 bytes
+
+   ByteCode        =      349 bytes
+
+
+
+
+Attaching deployed file.
+
+Assembly: FEZDomino_GHIElectronics.NETMF.FEZ (4.1.7.0) (304 RAM - 900 ROM - 495 METADATA)
+
+
+   AssemblyRef    =       12 bytes (       3 elements)
+
+   TypeRef        =       44 bytes (      11 elements)
+
+   FieldRef       =        0 bytes (       0 elements)
+
+   MethodRef      =       20 bytes (       5 elements)
+
+   TypeDef        =       72 bytes (       9 elements)
+
+   FieldDef       =       12 bytes (       6 elements)
+
+   MethodDef      =        4 bytes (       2 elements)
+
+
+
+   Attributes      =        0 bytes (       0 elements)
+
+   TypeSpec        =        0 bytes (       0 elements)
+
+   Resources       =        0 bytes (       0 elements)
+
+   Resources Files =        0 bytes (       0 elements)
+
+   Resources Data  =        0 bytes
+
+   Strings         =      178 bytes
+
+   Signatures      =       35 bytes
+
+   ByteCode        =       98 bytes
+
+
+
+
+Attaching deployed file.
+
+Assembly: Microsoft.SPOT.Native (4.1.2821.0) (1144 RAM - 6516 ROM - 4479 METADATA)
+
+
+   AssemblyRef    =        4 bytes (       1 elements)
+
+   TypeRef        =       80 bytes (      20 elements)
+
+   FieldRef       =        0 bytes (       0 elements)
+
+   MethodRef      =       60 bytes (      15 elements)
+
+   TypeDef        =      336 bytes (      42 elements)
+
+   FieldDef       =      192 bytes (      95 elements)
+
+   MethodDef      =      224 bytes (     111 elements)
+
+
+
+   Attributes      =       48 bytes (       6 elements)
+
+   TypeSpec        =        0 bytes (       0 elements)
+
+   Resources       =       72 bytes (       9 elements)
+
+   Resources Files =        8 bytes (       1 elements)
+
+   Resources Data  =      747 bytes
+
+   Strings         =      648 bytes
+
+   Signatures      =      595 bytes
+
+   ByteCode        =      418 bytes
+
+
+
+
+Attaching deployed file.
+
+Assembly: GHIElectronics.NETMF.Hardware (4.1.7.0) (1268 RAM - 8732 ROM - 5109 METADATA)
+
+
+   AssemblyRef    =       12 bytes (       3 elements)
+
+   TypeRef        =      100 bytes (      25 elements)
+
+   FieldRef       =        0 bytes (       0 elements)
+
+   MethodRef      =      104 bytes (      26 elements)
+
+   TypeDef        =      320 bytes (      40 elements)
+
+   FieldDef       =      128 bytes (      64 elements)
+
+   MethodDef      =      312 bytes (     156 elements)
+
+
+
+   Attributes      =        0 bytes (       0 elements)
+
+   TypeSpec        =        0 bytes (       0 elements)
+
+   Resources       =        0 bytes (       0 elements)
+
+   Resources Files =        0 bytes (       0 elements)
+
+   Resources Data  =        0 bytes
+
+   Strings         =     2190 bytes
+
+   Signatures      =      697 bytes
+
+   ByteCode        =     1301 bytes
+
+
+
+
+Attaching deployed file.
+
+Assembly: Microsoft.SPOT.Hardware (4.1.2821.0) (1752 RAM - 11440 ROM - 7371 METADATA)
+
+
+   AssemblyRef    =        8 bytes (       2 elements)
+
+   TypeRef        =      124 bytes (      31 elements)
+
+   FieldRef       =       24 bytes (       6 elements)
+
+   MethodRef      =      120 bytes (      30 elements)
+
+   TypeDef        =      496 bytes (      62 elements)
+
+   FieldDef       =      176 bytes (      88 elements)
+
+   MethodDef      =      444 bytes (     222 elements)
+
+
+
+   Attributes      =        0 bytes (       0 elements)
+
+   TypeSpec        =        0 bytes (       0 elements)
+
+   Resources       =        0 bytes (       0 elements)
+
+   Resources Files =        0 bytes (       0 elements)
+
+   Resources Data  =        0 bytes
+
+   Strings         =     1329 bytes
+
+   Signatures      =     1067 bytes
+
+   ByteCode        =     2611 bytes
+
+
+
+
+Resolving.
+
+
+Total: (10088 RAM - 88860 ROM - 48735 METADATA)
+
+
+   AssemblyRef    =      100 bytes (      25 elements)
+
+   TypeRef        =      680 bytes (     170 elements)
+
+   FieldRef       =      116 bytes (      29 elements)
+
+   MethodRef      =      664 bytes (     166 elements)
+
+   TypeDef        =     2896 bytes (     362 elements)
+
+   FieldDef       =     1176 bytes (     584 elements)
+
+   MethodDef      =     3232 bytes (    1612 elements)
+
+
+
+   DebuggingInfo  =     1628 bytes
+
+
+
+   Attributes      =       48 bytes (       6 elements)
+
+   TypeSpec        =       20 bytes (       5 elements)
+
+   Resources Files =       96 bytes (       4 elements)
+
+   Resources       =      320 bytes (      40 elements)
+
+   Resources Data  =     1197 bytes
+
+   Strings         =    12867 bytes
+
+   Signatures      =     6295 bytes
+
+   ByteCode        =    24469 bytes
+
+
+
+
+The debugging target runtime is loading the application assemblies and starting execution.
+Ready.
+
+'Microsoft.SPOT.Debugger.CorDebug.dll' (Managed): Loaded 'C:\Archivos de programa\Microsoft .NET Micro Framework\v4.1\Assemblies\le\mscorlib.dll', Symbols loaded.
+'Microsoft.SPOT.Debugger.CorDebug.dll' (Managed): Loaded 'C:\Archivos de programa\Microsoft .NET Micro Framework\v4.1\Assemblies\le\Microsoft.SPOT.Native.dll', Symbols loaded.
+'Microsoft.SPOT.Debugger.CorDebug.dll' (Managed): Loaded 'C:\Archivos de programa\Microsoft .NET Micro Framework\v4.1\Assemblies\le\Microsoft.SPOT.Hardware.dll', Symbols loaded.
+'Microsoft.SPOT.Debugger.CorDebug.dll' (Managed): Loaded 'C:\Archivos de programa\Microsoft .NET Micro Framework\v4.1\Assemblies\le\Microsoft.SPOT.Graphics.dll', Symbols loaded.
+'Microsoft.SPOT.Debugger.CorDebug.dll' (Managed): Loaded 'C:\Archivos de programa\GHI Electronics\GHI NETMF v4.1 SDK\Assemblies\le\GHIElectronics.NETMF.System.dll'
+'Microsoft.SPOT.Debugger.CorDebug.dll' (Managed): Loaded 'C:\Archivos de programa\GHI Electronics\GHI NETMF v4.1 SDK\Assemblies\le\GHIElectronics.NETMF.Hardware.dll'
+'Microsoft.SPOT.Debugger.CorDebug.dll' (Managed): Loaded 'C:\Archivos de programa\GHI Electronics\GHI NETMF v4.1 SDK\Assemblies\le\FEZDomino_GHIElectronics.NETMF.FEZ.dll'
+'Microsoft.SPOT.Debugger.CorDebug.dll' (Managed): Loaded 'C:\Archivos de programa\GHI Electronics\GHI NETMF v4.1 SDK\Assemblies\le\GHIElectronics.NETMF.USBHost.dll'
+'Microsoft.SPOT.Debugger.CorDebug.dll' (Managed): Loaded 'C:\Documents and Settings\Propietario\Escritorio\FezBridge_ThunderBoard\FezBridge\FezAdbBridge\FezAdbBridge\bin\Debug\le\FezAdbBridge.exe', Symbols loaded.
+The thread '<No Name>' (0x2) has exited with code 0 (0x0).
+Inside Main!
+Main Thread goes to Sleep!
+Inside the DeviceConnectedEvent!
+[Device, Port 0]
+Interface: 0
+ID: 1073775708
+Type: 0
+VID: 6353
+PID: 36888
+  === Interface ===
+  Class: 255
+  SubClass: 66
+  Number: 0
+  Protocol: 1
+  Type: 4
+   -- Endpoint --
+    Attributes: 2
+    Address: 129
+    Type: 5
+    Interval: 0
+ 
+129
+in case .133...
+   -- Endpoint --
+    Attributes: 2
+    Address: 1
+    Type: 5
+    Interval: 0
+ 
+1
+in case 5...
+Phase One Complete = true!
+Phase Two Complete = true!
+isReady is true!
+AdbListening Thread initialised!
+Inside AdbListening
+Out >> 1314410051,16777216,4096
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+In << CNXN 16777216,4096
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+In << (9) device::
+Out >> 1313165391,1,0
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+In << OKAY 230,1
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87905097
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+GC: 2msec 26880 bytes used, 37500 bytes available
+Type 0F (STRING              ):    192 bytes
+Type 11 (CLASS               ):   1932 bytes
+Type 12 (VALUETYPE           ):    204 bytes
+Type 13 (SZARRAY             ):    540 bytes
+Type 15 (FREEBLOCK           ):  37500 bytes
+Type 16 (CACHEDBLOCK         ):    180 bytes
+Type 17 (ASSEMBLY            ):  11760 bytes
+Type 18 (WEAKCLASS           ):     48 bytes
+Type 19 (REFLECTION          ):     24 bytes
+Type 1B (DELEGATE_HEAD       ):    540 bytes
+Type 1C (DELEGATELIST_HEAD   ):    108 bytes
+Type 1D (OBJECT_TO_EVENT     ):     96 bytes
+Type 1E (BINARY_BLOB_HEAD    ):   7692 bytes
+Type 1F (THREAD              ):   1152 bytes
+Type 20 (SUBTHREAD           ):    144 bytes
+Type 21 (STACK_FRAME         ):    924 bytes
+Type 27 (FINALIZER_HEAD      ):    192 bytes
+Type 31 (IO_PORT             ):     72 bytes
+Type 34 (APPDOMAIN_HEAD      ):     72 bytes
+Type 36 (APPDOMAIN_ASSEMBLY  ):   1008 bytes
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87905097
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87905097
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87905097
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87905097
+Out >> 1163154007,1,25
+myRanger reading is: 2.87905097
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87905097
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87905097
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87905097
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87905097
+Out >> 1163154007,1,25
+myRanger reading is: 2.87905097
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+GC: 3msec 25308 bytes used, 39072 bytes available
+Type 0F (STRING              ):    252 bytes
+Type 11 (CLASS               ):   1932 bytes
+Type 12 (VALUETYPE           ):    228 bytes
+Type 13 (SZARRAY             ):    540 bytes
+Type 15 (FREEBLOCK           ):  39072 bytes
+Type 17 (ASSEMBLY            ):  11760 bytes
+Type 18 (WEAKCLASS           ):     48 bytes
+Type 19 (REFLECTION          ):     24 bytes
+Type 1B (DELEGATE_HEAD       ):    540 bytes
+Type 1C (DELEGATELIST_HEAD   ):    108 bytes
+Type 1D (OBJECT_TO_EVENT     ):     96 bytes
+Type 1E (BINARY_BLOB_HEAD    ):   5400 bytes
+Type 1F (THREAD              ):   1152 bytes
+Type 20 (SUBTHREAD           ):    144 bytes
+Type 21 (STACK_FRAME         ):   1740 bytes
+Type 27 (FINALIZER_HEAD      ):    192 bytes
+Type 31 (IO_PORT             ):     72 bytes
+Type 34 (APPDOMAIN_HEAD      ):     72 bytes
+Type 36 (APPDOMAIN_ASSEMBLY  ):   1008 bytes
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.87080503
+Out >> 1163154007,1,25
+myRanger reading is: 2.92104411
+Out >> 1163154007,1,25
+myRanger reading is: 3.01815128
+Out >> 1163154007,1,25
+myRanger reading is: 3.10282969
+Out >> 1163154007,1,25
+myRanger reading is: 3.19267464
+Out >> 1163154007,1,25
+myRanger reading is: 3.25568032
+Out >> 1163154007,1,25
+myRanger reading is: 3.27726769
+Out >> 1163154007,1,25
+myRanger reading is: 3.24499846
+Out >> 1163154007,1,25
+myRanger reading is: 3.27726769
+Out >> 1163154007,1,25
+myRanger reading is: 3.27726769
+Out >> 1163154007,1,25
+myRanger reading is: 3.32135749
+Out >> 1163154007,1,25
+myRanger reading is: 3.34387326
+Out >> 1163154007,1,25
+myRanger reading is: 3.36671162
+Out >> 1163154007,1,25
+myRanger reading is: 3.46143651
+Out >> 1163154007,1,25
+myRanger reading is: 3.47367191
+Out >> 1163154007,1,25
+myRanger reading is: 3.46143651
+Out >> 1163154007,1,25
+myRanger reading is: 3.51092768
+Out >> 1163154007,1,25
+myRanger reading is: 3.65500259
+Out >> 1163154007,1,25
+myRanger reading is: 3.6012013
+Out >> 1163154007,1,25
+myRanger reading is: 3.62789345
+Out >> 1163154007,1,25
+myRanger reading is: 3.71051216
+Out >> 1163154007,1,25
+myRanger reading is: 3.7533145
+Out >> 1163154007,1,25
+myRanger reading is: 3.76781225
+Out >> 1163154007,1,25
+myRanger reading is: 3.79716086
+Out >> 1163154007,1,25
+myRanger reading is: 3.73893285
+Out >> 1163154007,1,25
+myRanger reading is: 3.79716086
+Out >> 1163154007,1,25
+myRanger reading is: 3.71051216
+Out >> 1163154007,1,25
+myRanger reading is: 3.81201506
+Out >> 1163154007,1,25
+myRanger reading is: 3.78242707
+GC: 3msec 25512 bytes used, 38868 bytes available
+Type 0F (STRING              ):    288 bytes
+Type 11 (CLASS               ):   1932 bytes
+Type 12 (VALUETYPE           ):    228 bytes
+Type 13 (SZARRAY             ):    672 bytes
+Type 15 (FREEBLOCK           ):  38868 bytes
+Type 17 (ASSEMBLY            ):  11760 bytes
+Type 18 (WEAKCLASS           ):     48 bytes
+Type 19 (REFLECTION          ):     24 bytes
+Type 1B (DELEGATE_HEAD       ):    540 bytes
+Type 1C (DELEGATELIST_HEAD   ):    108 bytes
+Type 1D (OBJECT_TO_EVENT     ):     96 bytes
+Type 1E (BINARY_BLOB_HEAD    ):   5400 bytes
+Type 1F (THREAD              ):   1152 bytes
+Type 20 (SUBTHREAD           ):    144 bytes
+Type 21 (STACK_FRAME         ):   1776 bytes
+Type 27 (FINALIZER_HEAD      ):    192 bytes
+Type 31 (IO_PORT             ):     72 bytes
+Type 34 (APPDOMAIN_HEAD      ):     72 bytes
+Type 36 (APPDOMAIN_ASSEMBLY  ):   1008 bytes
+Out >> 1163154007,1,25
+myRanger reading is: 3.73893285
+Out >> 1163154007,1,25
+myRanger reading is: 3.81201506
+Out >> 1163154007,1,25
+myRanger reading is: 3.82699084
+Out >> 1163154007,1,25
+myRanger reading is: 3.71051216
+Out >> 1163154007,1,25
+myRanger reading is: 3.76781225
+Out >> 1163154007,1,25
+myRanger reading is: 3.78242707
+Out >> 1163154007,1,25
+myRanger reading is: 3.84208989
+Out >> 1163154007,1,25
+myRanger reading is: 3.84208989
+Out >> 1163154007,1,25
+myRanger reading is: 3.88814211
+Out >> 1163154007,1,25
+myRanger reading is: 3.73893285
+Out >> 1163154007,1,25
+myRanger reading is: 3.93536043
+Out >> 1163154007,1,25
+myRanger reading is: 3.90374994
+Out >> 1163154007,1,25
+myRanger reading is: 3.91948867
+Out >> 1163154007,1,25
+myRanger reading is: 3.93536043
+Out >> 1163154007,1,25
+myRanger reading is: 4.03347588
+Out >> 1163154007,1,25
+myRanger reading is: 4.03347588
+Out >> 1163154007,1,25
+myRanger reading is: 4.11921835
+Out >> 1163154007,1,25
+myRanger reading is: 4.10176754
+Out >> 1163154007,1,25
+myRanger reading is: 4.3026123
+Out >> 1163154007,1,25
+myRanger reading is: 4.22725391
+Out >> 1163154007,1,25
+myRanger reading is: 4.3026123
+Out >> 1163154007,1,25
+myRanger reading is: 4.3808136
+Out >> 1163154007,1,25
+myRanger reading is: 4.46202374
+Out >> 1163154007,1,25
+myRanger reading is: 4.50381088
+Out >> 1163154007,1,25
+myRanger reading is: 4.6119175
+Out >> 1163154007,1,25
+myRanger reading is: 4.72554016
+Out >> 1163154007,1,25
+myRanger reading is: 4.99712849
+Out >> 1163154007,1,25
+myRanger reading is: 4.89471149
+Out >> 1163154007,1,25
+myRanger reading is: 4.99712849
+Out >> 1163154007,1,25
+myRanger reading is: 5.21584988
+Out >> 1163154007,1,25
+myRanger reading is: 5.42411709
+Out >> 1163154007,1,25
+myRanger reading is: 5.42411709
+Out >> 1163154007,1,25
+myRanger reading is: 5.61678314
+Out >> 1163154007,1,25
+myRanger reading is: 5.9712534
+Out >> 1163154007,1,25
+GC: 3msec 23520 bytes used, 40860 bytes available
+Type 0F (STRING              ):    204 bytes
+Type 11 (CLASS               ):   1932 bytes
+Type 12 (VALUETYPE           ):    228 bytes
+Type 13 (SZARRAY             ):    540 bytes
+Type 15 (FREEBLOCK           ):  40860 bytes
+Type 17 (ASSEMBLY            ):  11760 bytes
+Type 18 (WEAKCLASS           ):     48 bytes
+Type 19 (REFLECTION          ):     24 bytes
+Type 1B (DELEGATE_HEAD       ):    540 bytes
+Type 1C (DELEGATELIST_HEAD   ):    108 bytes
+Type 1D (OBJECT_TO_EVENT     ):     96 bytes
+Type 1E (BINARY_BLOB_HEAD    ):   3660 bytes
+Type 1F (THREAD              ):   1152 bytes
+Type 20 (SUBTHREAD           ):    144 bytes
+Type 21 (STACK_FRAME         ):   1740 bytes
+Type 27 (FINALIZER_HEAD      ):    192 bytes
+Type 31 (IO_PORT             ):     72 bytes
+Type 34 (APPDOMAIN_HEAD      ):     72 bytes
+Type 36 (APPDOMAIN_ASSEMBLY  ):   1008 bytes
+myRanger reading is: 6.08675003
+Out >> 1163154007,1,25
+myRanger reading is: 6.94013977
+Out >> 1163154007,1,25
+myRanger reading is: 6.99191189
+Out >> 1163154007,1,25
+myRanger reading is: 6.88914585
+Out >> 1163154007,1,25
+myRanger reading is: 7.43639755
+Out >> 1163154007,1,25
+myRanger reading is: 7.1520834
+Out >> 1163154007,1,25
+myRanger reading is: 7.49605751
+Out >> 1163154007,1,25
+myRanger reading is: 7.61835861
+Out >> 1163154007,1,25
+myRanger reading is: 7.94272423
+Out >> 1163154007,1,25
+myRanger reading is: 7.94272423
+Out >> 1163154007,1,25
+myRanger reading is: 8.52476215
+Out >> 1163154007,1,25
+myRanger reading is: 8.44729137
+Out >> 1163154007,1,25
+myRanger reading is: 9.29313946
+Out >> 1163154007,1,25
+myRanger reading is: 9.99584293
+Out >> 1163154007,1,25
+myRanger reading is: 10.4481573
+Out >> 1163154007,1,25
+myRanger reading is: 12.4216051
+Out >> 1163154007,1,25
+myRanger reading is: 14.8340988
+Out >> 1163154007,1,25
+myRanger reading is: 17.0493355
+Out >> 1163154007,1,25
+myRanger reading is: 18.4281998
+Out >> 1163154007,1,25
+myRanger reading is: 19.2056408
+Out >> 1163154007,1,25
+myRanger reading is: 22.5389137
+Out >> 1163154007,1,25
+myRanger reading is: 29.0364189
+Out >> 1163154007,1,25
+myRanger reading is: 28.1339931
+Out >> 1163154007,1,25
+myRanger reading is: 29.0364189
+Out >> 1163154007,1,25
+myRanger reading is: 31.0279732
+Out >> 1163154007,1,25
+myRanger reading is: 39.0806847
+Out >> 1163154007,1,25
+myRanger reading is: 44.9188118
+Out >> 1163154007,1,25
+myRanger reading is: 49.8919716
+Out >> 1163154007,1,25
+myRanger reading is: 64.1006927
+Out >> 1163154007,1,25
+myRanger reading is: 81.5380554
+Out >> 1163154007,1,25
+myRanger reading is: 89.6752548
+Out >> 1163154007,1,25
+myRanger reading is: 99.6205215
+Out >> 1163154007,1,25
+myRanger reading is: 179.174728
+Out >> 1163154007,1,25
+myRanger reading is: 223.91774
+Out >> 1163154007,1,25
+myRanger reading is: 298.479492
+Out >> 1163154007,1,25
+myRanger reading is: 894.526611
+Out >> 1163154007,1,25
+GC: 3msec 21960 bytes used, 42420 bytes available
+Type 0F (STRING              ):    204 bytes
+Type 11 (CLASS               ):   1932 bytes
+Type 12 (VALUETYPE           ):    228 bytes
+Type 13 (SZARRAY             ):    540 bytes
+Type 15 (FREEBLOCK           ):  42420 bytes
+Type 17 (ASSEMBLY            ):  11760 bytes
+Type 18 (WEAKCLASS           ):     48 bytes
+Type 19 (REFLECTION          ):     24 bytes
+Type 1B (DELEGATE_HEAD       ):    540 bytes
+Type 1C (DELEGATELIST_HEAD   ):    108 bytes
+Type 1D (OBJECT_TO_EVENT     ):     96 bytes
+Type 1E (BINARY_BLOB_HEAD    ):   2100 bytes
+Type 1F (THREAD              ):   1152 bytes
+Type 20 (SUBTHREAD           ):    144 bytes
+Type 21 (STACK_FRAME         ):   1740 bytes
+Type 27 (FINALIZER_HEAD      ):    192 bytes
+Type 31 (IO_PORT             ):     72 bytes
+Type 34 (APPDOMAIN_HEAD      ):     72 bytes
+Type 36 (APPDOMAIN_ASSEMBLY  ):   1008 bytes
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+GC: 3msec 22032 bytes used, 42348 bytes available
+Type 0F (STRING              ):    228 bytes
+Type 11 (CLASS               ):   1932 bytes
+Type 12 (VALUETYPE           ):    228 bytes
+Type 13 (SZARRAY             ):    588 bytes
+Type 15 (FREEBLOCK           ):  42348 bytes
+Type 17 (ASSEMBLY            ):  11760 bytes
+Type 18 (WEAKCLASS           ):     48 bytes
+Type 19 (REFLECTION          ):     24 bytes
+Type 1B (DELEGATE_HEAD       ):    540 bytes
+Type 1C (DELEGATELIST_HEAD   ):    108 bytes
+Type 1D (OBJECT_TO_EVENT     ):     96 bytes
+Type 1E (BINARY_BLOB_HEAD    ):   2100 bytes
+Type 1F (THREAD              ):   1152 bytes
+Type 20 (SUBTHREAD           ):    144 bytes
+Type 21 (STACK_FRAME         ):   1740 bytes
+Type 27 (FINALIZER_HEAD      ):    192 bytes
+Type 31 (IO_PORT             ):     72 bytes
+Type 34 (APPDOMAIN_HEAD      ):     72 bytes
+Type 36 (APPDOMAIN_ASSEMBLY  ):   1008 bytes
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:94;y:109;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:92;y:110;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (22) x:89;y:109;x:89;y:109;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:85;y:103;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:82;y:100;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:79;y:96;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:79;y:96;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+GC: 3msec 21528 bytes used, 42852 bytes available
+Type 0F (STRING              ):    276 bytes
+Type 11 (CLASS               ):   1944 bytes
+Type 12 (VALUETYPE           ):    204 bytes
+Type 13 (SZARRAY             ):    660 bytes
+Type 15 (FREEBLOCK           ):  42852 bytes
+Type 17 (ASSEMBLY            ):  11760 bytes
+Type 18 (WEAKCLASS           ):     48 bytes
+Type 19 (REFLECTION          ):     24 bytes
+Type 1B (DELEGATE_HEAD       ):    540 bytes
+Type 1C (DELEGATELIST_HEAD   ):    108 bytes
+Type 1D (OBJECT_TO_EVENT     ):     96 bytes
+Type 1E (BINARY_BLOB_HEAD    ):   2100 bytes
+Type 1F (THREAD              ):   1152 bytes
+Type 20 (SUBTHREAD           ):    144 bytes
+Type 21 (STACK_FRAME         ):   1128 bytes
+Type 27 (FINALIZER_HEAD      ):    192 bytes
+Type 31 (IO_PORT             ):     72 bytes
+Type 34 (APPDOMAIN_HEAD      ):     72 bytes
+Type 36 (APPDOMAIN_ASSEMBLY  ):   1008 bytes
+In << (20) x:77;y:91;x:76;y:90;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:78;y:87;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:80;y:85;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:84;y:84;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:89;y:82;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:95;y:84;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:102;y:86;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:111;y:89;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:115;y:90;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:120;y:96;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:121;y:98;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (12) x:122;y:103;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (12) x:119;y:111;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (12) x:114;y:117;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (12) x:107;y:119;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+GC: 3msec 21540 bytes used, 42840 bytes available
+Type 0F (STRING              ):    288 bytes
+Type 11 (CLASS               ):   1944 bytes
+Type 12 (VALUETYPE           ):    204 bytes
+Type 13 (SZARRAY             ):    660 bytes
+Type 15 (FREEBLOCK           ):  42840 bytes
+Type 17 (ASSEMBLY            ):  11760 bytes
+Type 18 (WEAKCLASS           ):     48 bytes
+Type 19 (REFLECTION          ):     24 bytes
+Type 1B (DELEGATE_HEAD       ):    540 bytes
+Type 1C (DELEGATELIST_HEAD   ):    108 bytes
+Type 1D (OBJECT_TO_EVENT     ):     96 bytes
+Type 1E (BINARY_BLOB_HEAD    ):   2100 bytes
+Type 1F (THREAD              ):   1152 bytes
+Type 20 (SUBTHREAD           ):    144 bytes
+Type 21 (STACK_FRAME         ):   1128 bytes
+Type 27 (FINALIZER_HEAD      ):    192 bytes
+Type 31 (IO_PORT             ):     72 bytes
+Type 34 (APPDOMAIN_HEAD      ):     72 bytes
+Type 36 (APPDOMAIN_ASSEMBLY  ):   1008 bytes
+In << (11) x:99;y:120;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:92;y:120;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:84;y:115;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:78;y:109;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:72;y:103;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:68;y:95;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:68;y:87;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:69;y:81;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:74;y:76;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:78;y:71;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:86;y:67;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:93;y:67;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:99;y:69;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:105;y:75;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:110;y:85;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:110;y:93;
+GC: 3msec 21324 bytes used, 43056 bytes available
+Type 0F (STRING              ):    276 bytes
+Type 11 (CLASS               ):   1932 bytes
+Type 12 (VALUETYPE           ):    204 bytes
+Type 13 (SZARRAY             ):    672 bytes
+Type 15 (FREEBLOCK           ):  43056 bytes
+Type 17 (ASSEMBLY            ):  11760 bytes
+Type 18 (WEAKCLASS           ):     48 bytes
+Type 19 (REFLECTION          ):     24 bytes
+Type 1B (DELEGATE_HEAD       ):    540 bytes
+Type 1C (DELEGATELIST_HEAD   ):    108 bytes
+Type 1D (OBJECT_TO_EVENT     ):     96 bytes
+Type 1E (BINARY_BLOB_HEAD    ):   2100 bytes
+Type 1F (THREAD              ):   1152 bytes
+Type 20 (SUBTHREAD           ):    144 bytes
+Type 21 (STACK_FRAME         ):    924 bytes
+Type 27 (FINALIZER_HEAD      ):    192 bytes
+Type 31 (IO_PORT             ):     72 bytes
+Type 34 (APPDOMAIN_HEAD      ):     72 bytes
+Type 36 (APPDOMAIN_ASSEMBLY  ):   1008 bytes
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (12) x:109;y:103;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (12) x:105;y:114;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:98;y:120;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:91;y:122;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:85;y:120;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:79;y:114;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:74;y:105;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:70;y:95;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:71;y:85;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:75;y:78;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (20) x:75;y:78;x:79;y:77;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:79;y:77;
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 894.526611
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+GC: 3msec 21768 bytes used, 42612 bytes available
+Type 0F (STRING              ):    312 bytes
+Type 11 (CLASS               ):   1944 bytes
+Type 12 (VALUETYPE           ):    204 bytes
+Type 13 (SZARRAY             ):    660 bytes
+Type 15 (FREEBLOCK           ):  42612 bytes
+Type 17 (ASSEMBLY            ):  11760 bytes
+Type 18 (WEAKCLASS           ):     48 bytes
+Type 19 (REFLECTION          ):     24 bytes
+Type 1B (DELEGATE_HEAD       ):    540 bytes
+Type 1C (DELEGATELIST_HEAD   ):    108 bytes
+Type 1D (OBJECT_TO_EVENT     ):     96 bytes
+Type 1E (BINARY_BLOB_HEAD    ):   2100 bytes
+Type 1F (THREAD              ):   1152 bytes
+Type 20 (SUBTHREAD           ):    144 bytes
+Type 21 (STACK_FRAME         ):   1332 bytes
+Type 27 (FINALIZER_HEAD      ):    192 bytes
+Type 31 (IO_PORT             ):     72 bytes
+Type 34 (APPDOMAIN_HEAD      ):     72 bytes
+Type 36 (APPDOMAIN_ASSEMBLY  ):   1008 bytes
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 894.526611
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 894.526611
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 894.526611
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 81.5380554
+Out >> 1163154007,1,25
+myRanger reading is: 20.0521889
+Out >> 1163154007,1,25
+myRanger reading is: 10.216918
+Out >> 1163154007,1,25
+myRanger reading is: 8.60369396
+Out >> 1163154007,1,25
+myRanger reading is: 7.26310158
+Out >> 1163154007,1,25
+myRanger reading is: 6.83891296
+Out >> 1163154007,1,25
+myRanger reading is: 5.86017132
+Out >> 1163154007,1,25
+myRanger reading is: 5.13155079
+Out >> 1163154007,1,25
+myRanger reading is: 5.10407257
+Out >> 1163154007,1,25
+myRanger reading is: 4.91990757
+Out >> 1163154007,1,25
+myRanger reading is: 4.6341877
+Out >> 1163154007,1,25
+myRanger reading is: 4.67940235
+GC: 3msec 21972 bytes used, 42408 bytes available
+Type 0F (STRING              ):    360 bytes
+Type 11 (CLASS               ):   1932 bytes
+Type 12 (VALUETYPE           ):    204 bytes
+Type 13 (SZARRAY             ):    792 bytes
+Type 15 (FREEBLOCK           ):  42408 bytes
+Type 17 (ASSEMBLY            ):  11760 bytes
+Type 18 (WEAKCLASS           ):     48 bytes
+Type 19 (REFLECTION          ):     24 bytes
+Type 1B (DELEGATE_HEAD       ):    540 bytes
+Type 1C (DELEGATELIST_HEAD   ):    108 bytes
+Type 1D (OBJECT_TO_EVENT     ):     96 bytes
+Type 1E (BINARY_BLOB_HEAD    ):   2100 bytes
+Type 1F (THREAD              ):   1152 bytes
+Type 20 (SUBTHREAD           ):    144 bytes
+Type 21 (STACK_FRAME         ):   1368 bytes
+Type 27 (FINALIZER_HEAD      ):    192 bytes
+Type 31 (IO_PORT             ):     72 bytes
+Type 34 (APPDOMAIN_HEAD      ):     72 bytes
+Type 36 (APPDOMAIN_ASSEMBLY  ):   1008 bytes
+Out >> 1163154007,1,25
+myRanger reading is: 4.79653931
+Out >> 1163154007,1,25
+myRanger reading is: 4.91990757
+Out >> 1163154007,1,25
+myRanger reading is: 4.72554016
+Out >> 1163154007,1,25
+myRanger reading is: 4.84511185
+Out >> 1163154007,1,25
+myRanger reading is: 4.9711113
+Out >> 1163154007,1,25
+myRanger reading is: 5.1874342
+Out >> 1163154007,1,25
+myRanger reading is: 5.48680973
+Out >> 1163154007,1,25
+myRanger reading is: 5.93374825
+Out >> 1163154007,1,25
+myRanger reading is: 6.69261456
+Out >> 1163154007,1,25
+myRanger reading is: 8.15124416
+Out >> 1163154007,1,25
+myRanger reading is: 9.99584293
+Out >> 1163154007,1,25
+myRanger reading is: 13.132535
+Out >> 1163154007,1,25
+myRanger reading is: 23.7168312
+Out >> 1163154007,1,25
+myRanger reading is: 447.565765
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 894.526611
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 895263.25
+Out >> 1163154007,1,25
+myRanger reading is: 99.6205215
+Out >> 1163154007,1,25
+myRanger reading is: 34.5897675
+Out >> 1163154007,1,25
+myRanger reading is: 18.0628014
+Out >> 1163154007,1,25
+myRanger reading is: 12.9471855
+Out >> 1163154007,1,25
+myRanger reading is: 10.690279
+Out >> 1163154007,1,25
+myRanger reading is: 7.94272423
+Out >> 1163154007,1,25
+myRanger reading is: 6.83891296
+Out >> 1163154007,1,25
+myRanger reading is: 5.75325394
+GC: 3msec 22416 bytes used, 41964 bytes available
+Type 0F (STRING              ):    372 bytes
+Type 11 (CLASS               ):   1932 bytes
+Type 12 (VALUETYPE           ):    228 bytes
+Type 13 (SZARRAY             ):    792 bytes
+Type 15 (FREEBLOCK           ):  41964 bytes
+Type 17 (ASSEMBLY            ):  11760 bytes
+Type 18 (WEAKCLASS           ):     48 bytes
+Type 19 (REFLECTION          ):     24 bytes
+Type 1B (DELEGATE_HEAD       ):    540 bytes
+Type 1C (DELEGATELIST_HEAD   ):    108 bytes
+Type 1D (OBJECT_TO_EVENT     ):     96 bytes
+Type 1E (BINARY_BLOB_HEAD    ):   2100 bytes
+Type 1F (THREAD              ):   1152 bytes
+Type 20 (SUBTHREAD           ):    144 bytes
+Type 21 (STACK_FRAME         ):   1776 bytes
+Type 27 (FINALIZER_HEAD      ):    192 bytes
+Type 31 (IO_PORT             ):     72 bytes
+Type 34 (APPDOMAIN_HEAD      ):     72 bytes
+Type 36 (APPDOMAIN_ASSEMBLY  ):   1008 bytes
+Out >> 1163154007,1,25
+myRanger reading is: 3.85731387
+Out >> 1163154007,1,25
+myRanger reading is: 3.5880084
+Out >> 1163154007,1,25
+myRanger reading is: 3.51092768
+Out >> 1163154007,1,25
+myRanger reading is: 3.53623343
+Out >> 1163154007,1,25
+myRanger reading is: 3.54903007
+Out >> 1163154007,1,25
+myRanger reading is: 3.51092768
+Out >> 1163154007,1,25
+myRanger reading is: 3.52353287
+Out >> 1163154007,1,25
+myRanger reading is: 3.54903007
+Out >> 1163154007,1,25
+myRanger reading is: 3.47367191
+Out >> 1163154007,1,25
+myRanger reading is: 3.49841642
+Out >> 1163154007,1,25
+myRanger reading is: 3.48599815
+Out >> 1163154007,1,25
+myRanger reading is: 3.5749166
+Out >> 1163154007,1,25
+myRanger reading is: 3.51092768
+Out >> 1163154007,1,25
+myRanger reading is: 3.49841642
+Out >> 1163154007,1,25
+myRanger reading is: 3.54903007
+Out >> 1163154007,1,25
+myRanger reading is: 3.54903007
+Out >> 1163154007,1,25
+myRanger reading is: 3.53623343
+Out >> 1163154007,1,25
+myRanger reading is: 3.51092768
+Out >> 1163154007,1,25
+myRanger reading is: 3.5749166
+Out >> 1163154007,1,25
+myRanger reading is: 3.49841642
+Out >> 1163154007,1,25
+myRanger reading is: 3.53623343
+Out >> 1163154007,1,25
+myRanger reading is: 3.47367191
+Out >> 1163154007,1,25
+myRanger reading is: 3.47367191
+Out >> 1163154007,1,25
+myRanger reading is: 3.47367191
+Out >> 1163154007,1,25
+myRanger reading is: 3.53623343
+Out >> 1163154007,1,25
+myRanger reading is: 3.56192422
+Out >> 1163154007,1,25
+myRanger reading is: 3.46143651
+Out >> 1163154007,1,25
+myRanger reading is: 3.51092768
+Out >> 1163154007,1,25
+myRanger reading is: 3.53623343
+Out >> 1163154007,1,25
+myRanger reading is: 3.51092768
+Out >> 1163154007,1,25
+myRanger reading is: 3.48599815
+Out >> 1163154007,1,25
+myRanger reading is: 3.47367191
+Out >> 1163154007,1,25
+myRanger reading is: 3.49841642
+Out >> 1163154007,1,25
+myRanger reading is: 3.5880084
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:72;y:104;
+GC: 3msec 21360 bytes used, 43020 bytes available
+Type 0F (STRING              ):    324 bytes
+Type 11 (CLASS               ):   1932 bytes
+Type 12 (VALUETYPE           ):    204 bytes
+Type 13 (SZARRAY             ):    660 bytes
+Type 15 (FREEBLOCK           ):  43020 bytes
+Type 17 (ASSEMBLY            ):  11760 bytes
+Type 18 (WEAKCLASS           ):     48 bytes
+Type 19 (REFLECTION          ):     24 bytes
+Type 1B (DELEGATE_HEAD       ):    540 bytes
+Type 1C (DELEGATELIST_HEAD   ):    108 bytes
+Type 1D (OBJECT_TO_EVENT     ):     96 bytes
+Type 1E (BINARY_BLOB_HEAD    ):   2100 bytes
+Type 1F (THREAD              ):   1152 bytes
+Type 20 (SUBTHREAD           ):    144 bytes
+Type 21 (STACK_FRAME         ):    924 bytes
+Type 27 (FINALIZER_HEAD      ):    192 bytes
+Type 31 (IO_PORT             ):     72 bytes
+Type 34 (APPDOMAIN_HEAD      ):     72 bytes
+Type 36 (APPDOMAIN_ASSEMBLY  ):   1008 bytes
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:71;y:97;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (20) x:71;y:98;x:71;y:98;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:80;y:103;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:82;y:102;
+myRanger reading is: 3.51092768
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:88;y:100;
+myRanger reading is: 3.6012013
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:93;y:101;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (12) x:100;y:102;
+myRanger reading is: 3.56192422
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (12) x:106;y:103;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (12) x:108;y:103;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (12) x:108;y:103;
+myRanger reading is: 3.53623343
+Out >> 1163154007,1,25
+myRanger reading is: 3.44929123
+Out >> 1163154007,1,25
+myRanger reading is: 3.53623343
+Out >> 1163154007,1,25
+myRanger reading is: 3.48599815
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:96;y:128;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:93;y:129;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:85;y:131;
+myRanger reading is: 3.56192422
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:78;y:128;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:70;y:122;
+GC: 3msec 21288 bytes used, 43092 bytes available
+Type 0F (STRING              ):    252 bytes
+Type 11 (CLASS               ):   1932 bytes
+Type 12 (VALUETYPE           ):    204 bytes
+Type 13 (SZARRAY             ):    660 bytes
+Type 15 (FREEBLOCK           ):  43092 bytes
+Type 17 (ASSEMBLY            ):  11760 bytes
+Type 18 (WEAKCLASS           ):     48 bytes
+Type 19 (REFLECTION          ):     24 bytes
+Type 1B (DELEGATE_HEAD       ):    540 bytes
+Type 1C (DELEGATELIST_HEAD   ):    108 bytes
+Type 1D (OBJECT_TO_EVENT     ):     96 bytes
+Type 1E (BINARY_BLOB_HEAD    ):   2100 bytes
+Type 1F (THREAD              ):   1152 bytes
+Type 20 (SUBTHREAD           ):    144 bytes
+Type 21 (STACK_FRAME         ):    924 bytes
+Type 27 (FINALIZER_HEAD      ):    192 bytes
+Type 31 (IO_PORT             ):     72 bytes
+Type 34 (APPDOMAIN_HEAD      ):     72 bytes
+Type 36 (APPDOMAIN_ASSEMBLY  ):   1008 bytes
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:66;y:115;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (22) x:65;y:115;x:65;y:115;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:61;y:109;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:58;y:92;
+myRanger reading is: 3.47367191
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:59;y:85;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (20) x:59;y:85;x:63;y:82;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:68;y:72;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:75;y:69;
+myRanger reading is: 3.47367191
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:83;y:70;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (10) x:91;y:74;
+myRanger reading is: 3.53623343
+Out >> 1163154007,1,25
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:100;y:75;
+In << WRTE 230,1
+Out >> 1497451343,1,230
+In << (11) x:100;y:75;
+myRanger reading is: 3.5749166
+Out >> 1163154007,1,25
+myRanger reading is: 3.49841642
+Out >> 1163154007,1,25
+myRanger reading is: 3.53623343
+Out >> 1163154007,1,25
+myRanger reading is: 3.54903007
+Out >> 1163154007,1,25
+myRanger reading is: 3.36671162
+Out >> 1163154007,1,25
+myRanger reading is: 3.46143651
+Out >> 1163154007,1,25
+myRanger reading is: 3.5749166
+Out >> 1163154007,1,25
+myRanger reading is: 3.54903007
+Out >> 1163154007,1,25
+myRanger reading is: 3.44929123
+GC: 3msec 21624 bytes used, 42756 bytes available
+Type 0F (STRING              ):    312 bytes
+Type 11 (CLASS               ):   1932 bytes
+Type 12 (VALUETYPE           ):    204 bytes
+Type 13 (SZARRAY             ):    696 bytes
+Type 15 (FREEBLOCK           ):  42756 bytes
+Type 17 (ASSEMBLY            ):  11760 bytes
+Type 18 (WEAKCLASS           ):     48 bytes
+Type 19 (REFLECTION          ):     24 bytes
+Type 1B (DELEGATE_HEAD       ):    540 bytes
+Type 1C (DELEGATELIST_HEAD   ):    108 bytes
+Type 1D (OBJECT_TO_EVENT     ):     96 bytes
+Type 1E (BINARY_BLOB_HEAD    ):   2100 bytes
+Type 1F (THREAD              ):   1152 bytes
+Type 20 (SUBTHREAD           ):    144 bytes
+Type 21 (STACK_FRAME         ):   1164 bytes
+Type 27 (FINALIZER_HEAD      ):    192 bytes
+Type 31 (IO_PORT             ):     72 bytes
+Type 34 (APPDOMAIN_HEAD      ):     72 bytes
+Type 36 (APPDOMAIN_ASSEMBLY  ):   1008 bytes
+Out >> 1163154007,1,25
+myRanger reading is: 3.54903007
+Out >> 1163154007,1,25
+myRanger reading is: 3.37825418
+Out >> 1163154007,1,25
+myRanger reading is: 3.5749166
+Out >> 1163154007,1,25
+myRanger reading is: 3.54903007
+Out >> 1163154007,1,25
+myRanger reading is: 3.61449575
+Out >> 1163154007,1,25
+myRanger reading is: 3.48599815
+Out >> 1163154007,1,25
+myRanger reading is: 3.52353287
+Out >> 1163154007,1,25
+myRanger reading is: 3.51092768
+Out >> 1163154007,1,25
+myRanger reading is: 3.56192422
+Out >> 1163154007,1,25
+myRanger reading is: 3.49841642
+Out >> 1163154007,1,25
+myRanger reading is: 3.5749166
+Out >> 1163154007,1,25
+myRanger reading is: 3.52353287
+Out >> 1163154007,1,25
+myRanger reading is: 3.49841642
+Out >> 1163154007,1,25
+myRanger reading is: 3.52353287
+Out >> 1163154007,1,25
+myRanger reading is: 3.5880084
+Out >> 1163154007,1,25
+myRanger reading is: 3.48599815
+Out >> 1163154007,1,25
+myRanger reading is: 3.47367191
+Out >> 1163154007,1,25
+myRanger reading is: 3.44929123
+Out >> 1163154007,1,25
+myRanger reading is: 3.5880084
+Out >> 1163154007,1,25
+myRanger reading is: 3.48599815
+Out >> 1163154007,1,25
+myRanger reading is: 3.52353287
+Out >> 1163154007,1,25
+myRanger reading is: 3.61449575
+Out >> 1163154007,1,25
+myRanger reading is: 3.53623343
+Out >> 1163154007,1,25
+myRanger reading is: 3.51092768
+Out >> 1163154007,1,25
+myRanger reading is: 3.51092768
+Out >> 1163154007,1,25
+myRanger reading is: 3.52353287
+Out >> 1163154007,1,25
+myRanger reading is: 3.72466588
+Out >> 1163154007,1,25
+myRanger reading is: 3.5880084
+Out >> 1163154007,1,25
+myRanger reading is: 3.53623343
+Out >> 1163154007,1,25
+myRanger reading is: 3.6012013
+Out >> 1163154007,1,25
+myRanger reading is: 3.48599815
+Out >> 1163154007,1,25
+myRanger reading is: 3.53623343
+Out >> 1163154007,1,25
+myRanger reading is: 3.48599815
+Out >> 1163154007,1,25
+myRanger reading is: 3.52353287
+Out >> 1163154007,1,25
+myRanger reading is: 3.44929123
+Out >> 1163154007,1,25
+myRanger reading is: 3.49841642
+Out >> 1163154007,1,25
+myRanger reading is: 3.52353287
+GC: 3msec 21972 bytes used, 42408 bytes available
+Type 0F (STRING              ):    360 bytes
+Type 11 (CLASS               ):   1932 bytes
+Type 12 (VALUETYPE           ):    204 bytes
+Type 13 (SZARRAY             ):    792 bytes
+Type 15 (FREEBLOCK           ):  42408 bytes
+Type 17 (ASSEMBLY            ):  11760 bytes
+Type 18 (WEAKCLASS           ):     48 bytes
+Type 19 (REFLECTION          ):     24 bytes
+Type 1B (DELEGATE_HEAD       ):    540 bytes
+Type 1C (DELEGATELIST_HEAD   ):    108 bytes
+Type 1D (OBJECT_TO_EVENT     ):     96 bytes
+Type 1E (BINARY_BLOB_HEAD    ):   2100 bytes
+Type 1F (THREAD              ):   1152 bytes
+Type 20 (SUBTHREAD           ):    144 bytes
+Type 21 (STACK_FRAME         ):   1368 bytes
+Type 27 (FINALIZER_HEAD      ):    192 bytes
+Type 31 (IO_PORT             ):     72 bytes
+Type 34 (APPDOMAIN_HEAD      ):     72 bytes
+Type 36 (APPDOMAIN_ASSEMBLY  ):   1008 bytes
+Out >> 1163154007,1,25
+myRanger reading is: 3.46143651
+Out >> 1163154007,1,25
+myRanger reading is: 3.54903007
+Out >> 1163154007,1,25
+myRanger reading is: 3.47367191
+Out >> 1163154007,1,25
+myRanger reading is: 3.48599815
+Out >> 1163154007,1,25
+myRanger reading is: 3.52353287
+Out >> 1163154007,1,25
+myRanger reading is: 3.56192422
+Out >> 1163154007,1,25
+myRanger reading is: 3.52353287
+Out >> 1163154007,1,25
+myRanger reading is: 3.51092768
+Out >> 1163154007,1,25
+myRanger reading is: 3.52353287
+Out >> 1163154007,1,25
+myRanger reading is: 3.52353287
+Out >> 1163154007,1,25
+myRanger reading is: 3.54903007
+Out >> 1163154007,1,25
+myRanger reading is: 3.51092768
+Out >> 1163154007,1,25
+myRanger reading is: 3.52353287
+Out >> 1163154007,1,25
+myRanger reading is: 3.52353287
+Out >> 1163154007,1,25
+myRanger reading is: 3.56192422
+Out >> 1163154007,1,25
+myRanger reading is: 3.52353287
+Out >> 1163154007,1,25
+myRanger reading is: 3.52353287
+Out >> 1163154007,1,25
+myRanger reading is: 3.46143651
+Out >> 1163154007,1,25
+myRanger reading is: 3.54903007
+Out >> 1163154007,1,25
+myRanger reading is: 3.54903007
+Out >> 1163154007,1,25
+myRanger reading is: 3.54903007
+Out >> 1163154007,1,25
+myRanger reading is: 3.53623343
+Out >> 1163154007,1,25
+The program '[2] Micro Framework application: Managed' has exited with code 0 (0x0).
